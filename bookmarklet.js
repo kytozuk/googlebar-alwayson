@@ -1,0 +1,1 @@
+javascript:(function() {var gb = document.getElementById("gb");gb.setAttribute("style", "position:fixed;z-index:99999999");var gbOpts = document.getElementById("hdtbSum");gbOpts.setAttribute("style", "position:fixed;z-index:99999999");var gbMenus = document.getElementById("hdtbMenus");gbMenus.setAttribute("style", "position:fixed;z-index:99999999");})();
